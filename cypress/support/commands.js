@@ -22,4 +22,5 @@ cy.get('#account_display_name').clear().type(usuario)
 cy.get('.woocommerce-Button').click()
  })
 
+
  
